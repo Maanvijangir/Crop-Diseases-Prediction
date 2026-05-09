@@ -8,6 +8,7 @@ This project is designed for learning, experimentation, and crop disease detecti
 **About**
 <br>
 CNNs are powerful deep learning models widely used in computer vision. This project provides clean, modular implementations of popular CNN architectures, making it easier for students, researchers, and developers to:
+<br>
 -> Understand CNN concepts through practical code
 <br>
 -> Train and evaluate models on custom datasets
