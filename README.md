@@ -1,6 +1,6 @@
 **CNN Model Collection**
 <br>
-A comprehensive repository showcasing various Convolutional Neural Network (CNN) architectures — from basic CNNs to advanced models like LeNet, AlexNet, VGG, GoogLeNet, ResNet, DenseNet, and MobileNet.  
+A comprehensive repository showcasing various Convolutional Neural Network (CNN) architectures — from basic CNNs to advanced models like LeNet, AlexNet, ResNet, DenseNet, and MobileNet.  
 This project is designed for learning, experimentation, and crop disease detection research using datasets such as **PlantVillage**.
 <br>
 <br>
