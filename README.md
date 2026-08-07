@@ -57,8 +57,6 @@ Example (PlantVillage dataset):
 <br>
 ResNet: 95% accuracy
 <br>
-VGG16: 92% accuracy
-<br>
 MobileNet: 90% accuracy
 <br>
 <br>
